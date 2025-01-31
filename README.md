@@ -31,3 +31,9 @@ Through this task, I gained hands-on experience with using window functions, sub
 Apply window functions to perform calculations across a set of rows related to the current row.Use subqueries in the form of CTEs to break down complex problems into smaller, more manageable pieces.Create CTEs to simplify queries and make them more readable.Apply filters and aggregations to refine the results and extract meaningful insights.
 **Conclusion**:
 In conclusion, this task allowed me to apply advanced SQL concepts to a real-world scenario, demonstrating my ability to calculate the customer retention rate over time using window functions, subqueries, and CTEs. I gained valuable experience in breaking down complex problems into smaller pieces, applying filters and aggregations, and using CTEs to simplify queries.
+**OUTPUT**:
+![Image](https://github.com/user-attachments/assets/0cfe40fc-effb-4037-9b6b-1920e3997c9e)
+
+![Image](https://github.com/user-attachments/assets/b65f814f-9e02-4927-8826-9849710bcf9b)
+
+![Image](https://github.com/user-attachments/assets/d8ae2452-3347-4d19-a0b6-922d2f420b89)
